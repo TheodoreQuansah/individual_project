@@ -75,4 +75,6 @@ To reproduce this project and analyze the dataset, follow these steps:
    ```bash
    git clone https://github.com/your-username/heart-disease-prediction.git
 
+## Resume
 
+**Performed in-depth data analysis and predictive modeling to study the factors influencing heart disease prevalence. Explored a comprehensive dataset, conducted statistical tests, and developed machine learning models. Key findings include strong associations between smoking, BMI, and heart disease, as well as the importance of physical activity and age as risk factors. Provided valuable insights for health professionals and policymakers.**
