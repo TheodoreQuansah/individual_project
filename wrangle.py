@@ -81,7 +81,5 @@ def data_split(df, target_column):
     y = pd.DataFrame(df[target_column])
     return X, y
 
-def baseline(df):
-    return 81.36
 
 
